@@ -1,14 +1,12 @@
 ### WELCOME 👋
 
 
-
----
-With each lesson my poswers grow ever stronger
-
 ---
 
 🔭 I’m currently working on completing a full stack certificate through the University of Washington so expect MANY additions, edits, and mistakes!
-<br><br>🌱 Current skills :
+<br><br>
+---
+🌱 Current skills :
 - HTML
 - CSS
 - Javascript
@@ -20,3 +18,5 @@ With each lesson my poswers grow ever stronger
 - mySQL / mySQL Workbench
 - Sequelize
 - Insomnia
+
+---
