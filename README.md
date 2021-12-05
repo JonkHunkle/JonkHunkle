@@ -1,16 +1,22 @@
-### Hi there 👋
+### WELCOME 👋
 
-<!--
-**JonkHunkle/JonkHunkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+With each lesson my poswers grow ever stronger
+
+---
+
+🔭 I’m currently working on completing a full stack certificate through the University of Washington so expect MANY additions, edits, and mistakes!
+<br><br>🌱 Current skills :
+- HTML
+- CSS
+- Javascript
+- Jquery
+- Bootstrap
+- Materialize CSS
+- Node.js
+- Express.js
+- mySQL / mySQL Workbench
+- Sequelize
+- Insomnia
