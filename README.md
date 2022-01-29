@@ -12,6 +12,7 @@
 - Javascript
 - Jquery
 - Bootstrap
+- Handlebars
 - Materialize CSS
 - Node.js
 - Express.js
