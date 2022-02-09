@@ -8,7 +8,8 @@
 ---
 
 🌱 Current Focus:
-MERN development
-Front-end developement
-Webpacks
+
+- MERN development
+- Front-end developement
+- Webpacks
 ---
