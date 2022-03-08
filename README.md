@@ -1,6 +1,5 @@
 ### WELCOME 👋
 
-<br><br>
 ---
 
 🌱 Current Focus:
