@@ -1,7 +1,7 @@
 ### WELCOME 👋
 
 ---
-I am a front-end web developer leveraging a bartending and music background to pursue a fast and flexible web experience using critical thinking, creativity and anticipation of needs. After recently completing a full-stack certificate to develop  my abilities in Javascript and React to ensure smooth UX, I have been able to work in multiple teams in various positions to create projects using both the MERN and SERN stacks.
+I am a full stack web developer with a background in bartending and music with a life-long dedication to learning. Effective at  combining creativity and critical thinking to develop fast, easy to use applications. Able to communicate well with collaborators in a team setting while maintaining a high level of organization, no matter the complexity of the project.
 
 ---
 
