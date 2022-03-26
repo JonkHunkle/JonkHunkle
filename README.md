@@ -7,7 +7,5 @@ I am a full stack web developer with a background in bartending and music with a
 
 🌱 Current Focus:
 
-- MERN development
-- GraqphQL
-- Tailwind mastery
+- Finding a Front-end development job!
 ---
