@@ -7,5 +7,6 @@ I am a full stack web developer with a background in bartending and music with a
 
 🌱 Current Focus:
 
-- Finding a Front-end development job!
+- Finding a Front-end development job
+- Learning Typescript
 ---
