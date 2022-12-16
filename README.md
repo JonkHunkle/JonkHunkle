@@ -8,5 +8,6 @@ I am a full stack web developer with a background in bartending and music with a
 🌱 Current Focus:
 
 - Learning Typescript
+- Building a virtual synthesizer
 
 ---
