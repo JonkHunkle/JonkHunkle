@@ -5,4 +5,4 @@ I am a software engineer with a background in music with a life-long dedication 
 
 ---
 
-https://www.codewars.com/users/JonkHunkle/badges/micro
+[embed] (https://www.codewars.com/users/JonkHunkle/badges/micro)
