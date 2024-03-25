@@ -1,7 +1,7 @@
 ### WELCOME 👋
 
 ---
-I am a software engineer with a background in music with a life-long dedication to learning. Effective at  combining creativity and critical thinking to develop fast, easy to use applications. Able to communicate well with collaborators in a team setting while maintaining a high level of organization, no matter the complexity of the project.
+I am a web developer leveraging a background in music production to exercise critical thinking, creativity and anticipation of user needs. My knowledge and experience in web development ensures both a smooth user experience and clean, concise code. Working on projects asynchronously with diverse teams has strengthened my skills in communication and collaboration. Using these strengths, I strive to build accessible, intuitive, and responsive web apps for a far-reaching audience.
 
 ---
 
